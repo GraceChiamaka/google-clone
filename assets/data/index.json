@@ -1,0 +1,57 @@
+[
+    {
+        "abbr": "DB",
+        "name": "Dan Brown",
+        "title": "Angels & Demons"
+    },
+    {
+        "abbr": "SK",
+        "name": "Stephen King",
+        "title": "The Dark Tower"
+    },
+    {
+        "abbr": "JC",
+        "name": "James Clavell",
+        "title": "Noble House"
+    },
+    {
+        "abbr": "HL",
+        "name": "Harper Lee",
+        "title": "To Kill A Mockingbird"
+    },
+    {
+        "abbr": "Jk",
+        "name": "J.K Rowling",
+        "title": "Harry Potter: The Sorcerer's Stone"
+    },
+    {
+        "abbr": "JS",
+        "name": "J.S Scott",
+        "title": "Billionaire Undone"
+    },
+    {
+        "abbr": "WS",
+        "name": "Wilbur Smith",
+        "title": "River God"
+    },
+    {
+        "abbr": "EB",
+        "name": "Elle Brace",
+        "title": "The Assistant"
+    },
+    {
+        "abbr": "JA",
+        "name": "Jane Austen",
+        "title": "Pride and Prejudice"
+    },
+    {
+        "abbr": "AF",
+        "name": "Anne Frank",
+        "title": "The Diary of a young Girl"
+    },
+    {
+        "abbr": "GO",
+        "name": "George Orwell",
+        "title": "1984"
+    }
+]
